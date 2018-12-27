@@ -1,0 +1,31 @@
+{
+  "name": "react-native-svg-iconfont",
+  "version": "1.0.0",
+  "description": "svg react-native iconfont",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaiYz/react-native-svg-iconfont.git"
+  },
+  "keywords": [
+    "react-native",
+    "iconfont"
+  ],
+  "author": "DaiYz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DaiYz/react-native-svg-iconfont/issues"
+  },
+  "homepage": "https://github.com/DaiYz/react-native-svg-iconfont#readme",
+  "peerDependencies": {
+    "prop-types": "*",
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "react-native-svg": "^8.0.8"
+  }
+}
