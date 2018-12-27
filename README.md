@@ -1,16 +1,16 @@
 # react-native-svg-iconfont
 
-#安装
+## 安装
 * [npm](https://www.npmjs.com/#getting-started): `npm install react-native-svg-iconfont --save`
 * [Yarn](https://yarnpkg.com/): `yarn add react-native-svg-iconfont`
 
 
-#link
+## link
 
-*此组件依赖于[react-native-svg]()，需要link react-native-svg
-`react-native link react-native-svg`
+*此组件依赖于[react-native-svg](https://github.com/react-native-community/react-native-svg)，需要link react-native-svg, 
+`运行 react-native link react-native-svg`
 
-#用法
+## 用法
 [阿里图标库](https://www.iconfont.cn/) `下载SVG格式的图标，复制svg路径保存在js文件中`
 例子 [`example/index.js`](./example/path.js)
 svg文件也可以让UI提供自定义图标
