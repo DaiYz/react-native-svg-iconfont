@@ -7,12 +7,12 @@
 
 ## link
 
-*此组件依赖于[react-native-svg](https://github.com/react-native-community/react-native-svg)，需要link react-native-svg, 
+* 此组件依赖于[react-native-svg](https://github.com/react-native-community/react-native-svg)，需要link react-native-svg, 
 `运行 react-native link react-native-svg`
 
 ## 用法
 [阿里图标库](https://www.iconfont.cn/) `下载SVG格式的图标，复制svg路径保存在js文件中`
-例子 [`example/index.js`](./example/path.js)
+例子 [`example/path.js`](./example/path.js)
 svg文件也可以让UI提供自定义图标
 
 ```jsx
@@ -61,3 +61,5 @@ svg文件也可以让UI提供自定义图标
  style | undefined | object | style
  viewBox |'0 0 1024 1024' | string | 画板大小默认为1024*1024 请确保此值保持一致，否则会出现图标缺失或大小不一的情况
  
+ ## License
+ * [MIT](LICENSE)
