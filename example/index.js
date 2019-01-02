@@ -17,7 +17,7 @@ export default class Example extends Component {
       <View style={styles.container}>
         <View style={{height: 44, marginTop: 44, justifyContent: 'center', alignItems: 'center'}}>
           <Text>Test</Text>
-          <SvgIcon path={iconPath.account} />
+          <SvgIcon path={iconPath.weibo} fill={['#FFFFFF', '#511017', '##F43B51', '##4F3636', '#FFFFFF', '#FFFFFF', '#81DB61', '#16380A']}/>
         </View>
       </View>
     );
