@@ -23,9 +23,10 @@
   "peerDependencies": {
     "prop-types": "*",
     "react": "*",
+    "react-native-svg": "^6.2.1||^7.0.3",
     "react-native": "*"
   },
   "dependencies": {
-    "react-native-svg": "^8.0.8"
+    "react-native-svg": "^6.5.2"
   }
 }
