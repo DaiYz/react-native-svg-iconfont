@@ -7,8 +7,9 @@
 
 ## link
 
-* 此组件依赖于[react-native-svg](https://github.com/react-native-community/react-native-svg)，需要link react-native-svg, 
-`运行 react-native link react-native-svg`
+* 此组件依赖于[react-native-svg](https://github.com/react-native-community/react-native-svg)，需要安装 react-native-svg, 
+` 运行 yarn add  react-native-svg,
+  运行react-native link react-native-svg`
 
 ## 用法
 [阿里图标库](https://www.iconfont.cn/) `下载SVG格式的图标，复制svg路径保存在js文件中`
